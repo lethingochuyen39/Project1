@@ -16,9 +16,9 @@ Nguyễn Phúc Duy | Student1333974
 
 =============================
 
-Published: https://vankhoanguyen.github.io/eProject-Mountaineering/
+Published: https://vankhoanguyen.github.io/eProject-Mountaineering/ or https://lethingochuyen39.github.io/Project1/
 
-eProject report link: https://github.com/Vankhoanguyen/eProject-Mountaineering/tree/main/Document
+eProject report link: https://github.com/Vankhoanguyen/eProject-Mountaineering/tree/main/Document or 
 
 ============================
 
